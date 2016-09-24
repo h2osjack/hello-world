@@ -2,4 +2,4 @@
 First one
 
 This is my first github try
-I'm nor a coder
+I'm not a coder
